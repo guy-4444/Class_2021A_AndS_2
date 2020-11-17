@@ -16,7 +16,7 @@
         <ImageView
             android:id="@+id/main_IMG_a"
             android:layout_width="match_parent"
-            android:layout_height="240dp"
+            android:layout_height="20dp"
             android:layout_marginTop="24dp"
             android:scaleType="fitXY"
             android:background="#D6D6D6"
@@ -25,10 +25,30 @@
         <ImageView
             android:id="@+id/main_IMG_b"
             android:layout_width="match_parent"
-            android:layout_height="240dp"
+            android:layout_height="20dp"
             android:layout_marginTop="24dp"
             android:scaleType="fitXY"
             android:background="#D6D6D6"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:background="#FFF000"
+            android:maxLines="1"
+            android:text="99999999"
+            android:gravity="center"
+            app:autoSizeTextType="uniform"
+            app:autoSizeStepGranularity="1sp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            app:icon="@drawable/ic_settings"
+            app:cornerRadius="50dp"
+            app:strokeColor="@color/purple_500"
+            android:layout_gravity="center"
+            android:text="Click Here"/>
 
     </LinearLayout>
 
