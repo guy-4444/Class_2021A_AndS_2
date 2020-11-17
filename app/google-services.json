@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858084984775",
+    "firebase_url": "https://imageencryption-6ef97.firebaseio.com",
+    "project_id": "imageencryption-6ef97",
+    "storage_bucket": "imageencryption-6ef97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858084984775:android:2d5f3313ee131cdcf23be2",
+        "android_client_info": {
+          "package_name": "com.classy.class_2021a_ands_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858084984775-j2musbn5ct0kpm9tebc95u549ndp6n2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjNw88p1P7wprCVmlDbQrfqpbWdMESA7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858084984775-j2musbn5ct0kpm9tebc95u549ndp6n2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
